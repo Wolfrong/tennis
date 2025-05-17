@@ -36,4 +36,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="ball.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="platform1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="platform2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="tennis_ball.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
